@@ -34,17 +34,17 @@ Here are some screenshots of the project:
 
 ### Login
 <div align="center">
-<img src="/screenshots/LoginPage.png" alt="Screenshot from Project" width="900" />
+<img src="/screenshots/LoginPage.png" alt="Screenshot from Project" width="550" />
 </div>
 
 ### Register
 <div align="center">
-<img src="/screenshots/RegisterPage.png" alt="Screenshot from Project" width="900" />
+<img src="/screenshots/RegisterPage.png" alt="Screenshot from Project" width="550" />
 </div>
 
 ### Survey Choose Page
 <div align="center">
-<img src="/screenshots/SurveyChoosePage.png" alt="Screenshot from Project" width="900" />
+<img src="/screenshots/SurveyChoosePage.png" alt="Screenshot from Project" width="550" />
 </div>
 
 ### Survey Manager Page
@@ -62,5 +62,5 @@ Here are some screenshots of the project:
 </div>
 
 <div align="center">
-<img src="/screenshots/SurveyPage-2.png" alt="Screenshot from Project" width="900" />
+<img src="/screenshots/SurveyPage - 2.png" alt="Screenshot from Project" width="900" />
 </div>
