@@ -64,3 +64,10 @@ Here are some screenshots of the project:
 <div align="center">
 <img src="/screenshots/SurveyPage - 2.png" alt="Screenshot from Project" width="900" />
 </div>
+
+## Contact
+
+You can reach me at:
+
+- **Email:** [rustemavci@hotmail.com.tr](mailto:rustemavci@hotmail.com.tr)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rüstem-avcı)
